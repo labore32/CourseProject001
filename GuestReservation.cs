@@ -3,7 +3,7 @@
 public class GuestReservation
 {
     public Guest c {get; set;}
-    public Reservtion a {get; set;}
+    public Reservation a {get; set;}
 
     public GuestReservation(Guest c, Reservation a)
     {
